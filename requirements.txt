@@ -1,0 +1,5 @@
+flask
+exa_py
+ddgs
+python-dotenv
+pillow
